@@ -555,6 +555,7 @@
                          }
          ];
     }
+    /*
     else{
         [UIView animateWithDuration:kCLImageToolAnimationDuration
                          animations:^{
@@ -567,6 +568,7 @@
                          }
          ];
     }
+    */
 }
 
 - (void)swapToolBarWithEditting:(BOOL)editting
